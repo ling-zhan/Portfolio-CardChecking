@@ -1,4 +1,4 @@
-#  作品集 - Card checking.
+#  作品集 - Card checking
 
 ![avatar](/preview01.png)
 ![avatar](/preview02.png)
